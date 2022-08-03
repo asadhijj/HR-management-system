@@ -38,7 +38,11 @@ const emp1 = {
 
         let netIncome = math.floor(randomSalary*0.925);
 
+<<<<<<< HEAD
         console.log("Employee salary: " + netIncome);
+=======
+        return netIncome
+>>>>>>> 41d7cd2 (editedd)
     }
 
     }
@@ -76,7 +80,11 @@ const emp2 = {
 
         let netIncome = math.floor(randomSalary*0.925);
 
+<<<<<<< HEAD
         console.log("Employee salary: " + netIncome);
+=======
+        return netIncome
+>>>>>>> 41d7cd2 (editedd)
     }
 }
 
@@ -113,7 +121,11 @@ const emp3 = {
 
         let netIncome = math.floor(randomSalary*0.925);
 
+<<<<<<< HEAD
         console.log("Employee salary: " + netIncome);
+=======
+        return netIncome
+>>>>>>> 41d7cd2 (editedd)
     }
 }
 
@@ -150,7 +162,11 @@ const emp4 = {
 
         let netIncome = math.floor(randomSalary*0.925);
 
+<<<<<<< HEAD
         console.log("Employee salary: " + netIncome);
+=======
+        return netIncome
+>>>>>>> 41d7cd2 (editedd)
     
 }
 }
@@ -186,8 +202,13 @@ const emp5 = {
     }
 
         let netIncome = math.floor(randomSalary*0.925);
+<<<<<<< HEAD
 
         console.log("Employee salary: " + netIncome);
+=======
+return netIncome  
+       
+>>>>>>> 41d7cd2 (editedd)
     }
 }
 
@@ -225,7 +246,11 @@ const emp6 = {
 
         let netIncome = math.floor(randomSalary*0.925);
 
+<<<<<<< HEAD
         console.log("Employee salary: " + netIncome);
+=======
+        return netIncome
+>>>>>>> 41d7cd2 (editedd)
     } 
 }
 
@@ -261,8 +286,12 @@ const emp7 ={
     }
 
         let netIncome = math.floor(randomSalary*0.925);
+<<<<<<< HEAD
 
         console.log("Employee salary: " + netIncome);
+=======
+        return netIncome;
+>>>>>>> 41d7cd2 (editedd)
     } 
 }
 
@@ -270,6 +299,7 @@ const emp7 ={
 
 
 console.log(emp1.exmployeeid(id))
+<<<<<<< HEAD
 console.log (emp1.randomSalary("Senior"))
 
 console.log(emp2.exmployeeid(id))
@@ -289,3 +319,24 @@ console.log (emp6.randomSalary("Senior"))
 
 console.log(emp7.exmployeeid(id))
 console.log (emp7.randomSalary("Senior"))
+=======
+console.log ("Employee Salary :"+emp1.randomSalary("Senior"))
+
+console.log(emp2.exmployeeid(id))
+console.log ("Employee Salary :"+emp2.randomSalary("Senior"))
+
+console.log(emp3.exmployeeid(id))
+console.log ("Employee Salary :"+emp3.randomSalary("Senior"))
+
+console.log(emp4.exmployeeid(id))
+console.log ("Employee Salary :"+emp4.randomSalary("Senior"))
+
+console.log(emp5.exmployeeid(id))
+console.log ("Employee Salary :"+emp5.randomSalary("Senior"))
+
+console.log(emp6.exmployeeid(id))
+console.log ("Employee Salary :"+emp6.randomSalary("Senior"))
+
+console.log(emp7.exmployeeid(id))
+console.log ("Employee Salary :"+emp7.randomSalary("Senior"))
+>>>>>>> 41d7cd2 (editedd)
